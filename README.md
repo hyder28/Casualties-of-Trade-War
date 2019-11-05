@@ -13,7 +13,7 @@ Please access jupyter notebooks in the repository.
 There is motivation to provide novel visual insights on a current and complex matter that affects the entire world. Using Global Commodity Trade Statistics published by the United Nations Statistics Division, we have identified investable and tradable commodities which fall into Metals, Energy, Livestock & Meat and Agriculture (Lioudis, 2018). Integrating the Commodity Trade with the current GDP data from the World Bank, we plan to identify trends, patterns and dependencies in commodity trade at geographic, regional and economic communities; and identify economies that are sensitive to trade, along with the particular commodities that give rise to this sensitivity. We use a funnel methodology by generalizing our data visualizations by geographic and financial trade commodity groupings before providing a drill-drown facility in an interactive dashboard to help policymakers have a better understanding their economies and trade given the looming trade-war.
 
 Through out analysis, we hope to address the following:
-__Commodity Trade Overview: Exploratory Analysis of Commodity Trade by Trading Parameters__
+### Commodity Trade Overview: Exploratory Analysis of Commodity Trade by Trading Parameters
 We want to explore the hierarchical relationships between trade balance, quantity and volume by trading parameters such as commodity type, trade flow and regions to identify interesting patters between 2007 to 2016.
 Choropleth Map: Filter by trade flow, commodity type and year to analyze trade balance (in USD Millions) between 2007 to 2016.
 Sankey Diagram: Filter by year to view flow of commodity trade (in USD Millions) from the different commodity types to regions between 2007 to 2016.
