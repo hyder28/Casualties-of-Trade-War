@@ -20,15 +20,15 @@ Sankey Diagram: Filter by year to view flow of commodity trade (in USD Millions)
 Treemap: Filter by year to view import and export commodity trade quantity and volume by regions between 2007 to 2016.
 Sunburst: Filter by year to view hierarchy of quantities and volume of commodity trade between 2007 to 2016.
 
-__Commodity Trade Dependencies: Analysis of Trade dependencies by Regions__
+### Commodity Trade Dependencies: Analysis of Trade dependencies by Regions
 We would like to analyze trends and trade dependencies among geographical and economic groups such as Organization for Economic and Development (OECD), European Union (EU) and Southeast Asia (SEA) by the different commodity types and trade flow.
 Time-series with geographic panels: Filter by commodity flow and type to analyze trends and trade dependencies among OECD, EU and SEA between 2007 to 2016.
 
-__Commodity Trade Position Over Time: Analysis of Export-to-Import relationship over time__
+### Commodity Trade Position Over Time: Analysis of Export-to-Import relationship over time
 We would like to analyze commodity trade position by assessing export-to-import relationship among regions over time from 2007 to 2016.
 Bubble Plot: Filter by commodity type and regions to assess Export-to-Import relationship among countries between 2007 to 2016.
 
-__Commodity Trade Openness to GDP__
+### Commodity Trade Openness to GDP
 We would like to identify economies that are sensitive to trade, along with the particular commodities that give rise to this sensitivity.
 Trellis Scatter Plot: To display the strong R-squared relationship between commodity trade balance to GDP to assess the level of sensitiveness among countries.
 
